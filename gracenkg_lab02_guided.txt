@@ -1,0 +1,2 @@
+Gracen Greenburg
+This lab involved using the VIM and making a text file that can be altered with user input. One notable change was the way I was able to alter the color scheme of the document from the normal color scheme to zellner. The most difficult part of this lab was Step 12, as I was struggling to remember how to effectively use the 'cp' command to copy and rename a file.
